@@ -1,0 +1,77 @@
+body{
+    background-color: black;
+    color: white;
+}
+.container{
+    border: 2px solid  red;
+    width: 80%;
+    margin: auto;
+    background-color: rgb(48, 46, 46);
+    border-radius: 20px;
+
+}
+.heading{
+    font-family: 'Lobster',cursive;
+    text-align: center;
+
+}
+#title{
+    font-size: 90px;
+    text-align: center;
+
+}
+#img-div{
+   
+    text-align: center;
+
+}
+#info{
+    border: 1px solid red;
+    width: 80%;
+    margin: 40px auto;
+    text-align: justify;
+    font-size: 22px;
+
+
+}
+
+ul{
+    width: 80%;
+    margin: auto;
+
+}
+li{
+    font-size: 24px;
+    line-height: 3rem;
+
+}
+#footer{
+    border: 1px solid red;
+    font-size: 20px;
+
+
+}
+
+#marvel{
+    border: 1px solid red;
+    color: red;
+    padding: 2rem;
+    font-size: 2rem;
+}
+#ink{
+    text-decoration: none;
+    color: white;
+    border: 2px solid darkorange;
+}
+#link:hover{
+    background-color: rgb(60,57,60);
+}
+#image{
+    box-shadow: 5px;
+}
+#lieber{
+    color: red;
+}
+#comics{
+    color:red
+}
