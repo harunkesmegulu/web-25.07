@@ -3,7 +3,7 @@ body{
     color: white;
 }
 .container{
-    border: 2px solid  red;
+    /* border: 2px solid  red; */
     width: 80%;
     margin: auto;
     background-color: rgb(48, 46, 46);
@@ -26,10 +26,10 @@ body{
 
 }
 #info{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     width: 80%;
     margin: 40px auto;
-    text-align: justify;
+    text-align:justify;
     font-size: 22px;
 
 
@@ -46,14 +46,14 @@ li{
 
 }
 #footer{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     font-size: 20px;
 
 
 }
 
 #marvel{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     color: red;
     padding: 2rem;
     font-size: 2rem;
@@ -74,4 +74,7 @@ li{
 }
 #comics{
     color:red
+}
+#a{
+    border: 2px solit red;
 }
